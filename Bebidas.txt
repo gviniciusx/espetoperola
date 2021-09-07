@@ -4,3 +4,6 @@ ecobear
 antartica
 suco laranja
 coca cola
+chop
+caipirinha
+pinga
