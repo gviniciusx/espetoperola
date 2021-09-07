@@ -2,3 +2,6 @@ carne
 frango
 franbacon
 coração
+pão de alho
+tulipa
+linguissa
